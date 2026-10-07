@@ -1,0 +1,6 @@
+ragas==0.1.14
+openai==1.35.0
+sentence-transformers==3.0.1
+datasets==2.20.0
+numpy==1.26.4
+python-dotenv==1.0.1
